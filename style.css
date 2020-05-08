@@ -1,0 +1,19 @@
+.header{
+    background-color: 	#FF0000;
+    display: flex;
+ justify-content: space-between;
+ margin : 20;
+}
+.menu{
+    background-color:	#00FF00;
+    display: flex;
+    justify-content: space-evenly;
+    margin:10;
+    padding:3;
+}
+.school{
+    background-color: #000000;
+    display: flex;
+    justify-content: centre;
+
+}
